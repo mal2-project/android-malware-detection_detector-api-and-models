@@ -1,0 +1,15 @@
+.idea
+
+ENV
+keys/*
+misc/*
+
+.*.swp
+
+venv/*
+venv-br0ken
+
+__pycache__
+
+app/models/*
+app/models/r1_model

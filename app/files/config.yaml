@@ -1,0 +1,5 @@
+max_feature_count: 500
+embedding_vector_len: 30 #Embedded vector length that describes a word
+dense_units1: 500
+dense_units2: 200
+labels: "infer from array" #good*c1, mal*c2
